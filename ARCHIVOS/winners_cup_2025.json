@@ -1,8 +1,8 @@
-[
+E[
     {
-        "id": "Nombre del Equipo",
-        "title": "Título",
-        "tricode": "SSS",
+        "id": "El Eqwuipo 1",
+        "title": "Equipo 1",
+        "tricode": "EQ1",
         "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA IN.webm",
         "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA OUT.webm"
     },
