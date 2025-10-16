@@ -4,13 +4,15 @@
         "title": "Equipo 1",
         "tricode": "EQ1",
         "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA IN.webm",
-        "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA OUT.webm"
+        "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA OUT.webm",
+        "icon": "https://iili.io/FOMoVQn.png"
     },
     {
         "id": "El Equipo 2",
         "title": "Equipo 2",
         "tricode": "Eq2",
         "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGO PRUEBA 1 IN.webm",
-        "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGO PRUEBA 1 OUT.webm"
+        "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGO PRUEBA 1 OUT.webm",
+        "icon": "https://iili.io/Feq4j6l.webp"
     }
 ]
