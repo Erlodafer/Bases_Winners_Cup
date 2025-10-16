@@ -3,7 +3,8 @@
         "id": "Nombre del Equipo",
         "title": "Título",
         "tricode": "SSS",
-        "icon": "URLl del logo"
+        "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA IN.webm",
+        "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA OUT.webm"
     },
     {
         "id": "Nombre del Equipo",
