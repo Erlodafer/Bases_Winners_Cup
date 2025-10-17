@@ -1,18 +1,20 @@
 [
     {
-        "id": "El Eqwuipo 1",
-        "title": "Equipo 1",
-        "tricode": "EQ1",
+        "id": "El Salvador",
+        "title": "El Salvador",
+        "tricode": "SLV",
         "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA IN.webm",
         "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGOS PRUEBA OUT.webm",
-        "icon": "https://iili.io/FOMoVQn.png"
+        "icon": "//image.singular.live/634cd08efd790584f33413f64f75d467/images/6wYpK0JJZFnt3EcUUVuSN2_w800h800.png",
+        "range": "El Salvador M!A1:B26"
     },
     {
-        "id": "El Equipo 2",
-        "title": "Equipo 2",
-        "tricode": "Eq2",
+        "id": "Portugal",
+        "title": "Portugal",
+        "tricode": "POR",
         "logoin": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGO PRUEBA 1 IN.webm",
         "logoout": "https://erlodafer.github.io/Bases_Winners_Cup/PRUEBAS/LOGO PRUEBA 1 OUT.webm",
-        "icon": "https://iili.io/Feq4j6l.webp"
+        "icon": "//image.singular.live/634cd08efd790584f33413f64f75d467/images/7BHQXzbMxrn1VS688Pb8P6_w800h800.png",
+        "range": "Portugal M!A1:B26"
     }
 ]
