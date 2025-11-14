@@ -5,8 +5,188 @@
     "icon": "https://iili.io/FZ96yiu.png"
   },
   {
-    "id": "EQ2",
-    "title": "Equipo 2",
-    "icon": "https://iili.io/FZ9PFRV.png"
+    "id": "BAH",
+    "title": "BAHIA FP",
+    "icon": ""
+  },
+  {
+    "id": "BAR",
+    "title": "BARRA DE SANTIAGO",
+    "icon": ""
+  },
+  {
+    "id": "SEB",
+    "title": "ISLA SAN SEBASTIAN",
+    "icon": ""
+  },
+  {
+    "id": "FUE",
+    "title": "FUEGO FC",
+    "icon": ""
+  },
+  {
+    "id": "MIL",
+    "title": "CD MILENIO",
+    "icon": ""
+  },
+  {
+    "id": "RIV",
+    "title": "FP RIVIERA MAYA",
+    "icon": ""
+  },
+  {
+    "id": "GPB",
+    "title": "GARITA PALMERA BS",
+    "icon": ""
+  },
+  {
+    "id": "HON",
+    "title": "HONDURAS BSA",
+    "icon": ""
+  },
+  {
+    "id": "LIM",
+    "title": "YUNIS LIMON",
+    "icon": ""
+  },
+  {
+    "id": "POA",
+    "title": "MUNICIPAL POÁS",
+    "icon": ""
+  },
+  {
+    "id": "NOP",
+    "title": "NOPALEROS FC",
+    "icon": ""
+  },
+  {
+    "id": "PIO",
+    "title": "PIONEROS FP",
+    "icon": ""
+  },
+  {
+    "id": "RVI",
+    "title": "RANCHO VIEJO",
+    "icon": ""
+  },
+  {
+    "id": "SAM",
+    "title": "SAMARA ADG",
+    "icon": ""
+  },
+  {
+    "id": "SCR",
+    "title": "CRUZN",
+    "icon": ""
+  },
+  {
+    "id": "SCA",
+    "title": "CRUZN ACADEMY",
+    "icon": ""
+  },
+  {
+    "id": "SDC",
+    "title": "SOCAL BSC",
+    "icon": ""
+  },
+  {
+    "id": "LUQ",
+    "title": "SPORTIVO LUQUEÑO",
+    "icon": ""
+  },
+  {
+    "id": "USC",
+    "title": "USAC FP",
+    "icon": ""
+  },
+  {
+    "id": "AMI",
+    "title": "AMIGAS FC",
+    "icon": ""
+  },
+  {
+    "id": "BAR",
+    "title": "BARRA DE SANTIAGO",
+    "icon": ""
+  },
+  {
+    "id": "UES",
+    "title": "BS-UES",
+    "icon": ""
+  },
+  {
+    "id": "VBE",
+    "title": "BSVB",
+    "icon": ""
+  },
+  {
+    "id": "CALI",
+    "title": "CALI BSC",
+    "icon": ""
+  },
+  {
+    "id": "VAS",
+    "title": "VASCO DA GAMA",
+    "icon": ""
+  },
+  {
+    "id": "DIM",
+    "title": "DIMAS ESCAZÚ",
+    "icon": ""
+  },
+  {
+    "id": "RMA",
+    "title": "RIVIERA MAYA",
+    "icon": ""
+  },
+  {
+    "id": "GAR",
+    "title": "GARITA PALMERA",
+    "icon": ""
+  },
+  {
+    "id": "CEL",
+    "title": "CEILÁNDIA EC",
+    "icon": ""
+  },
+  {
+    "id": "LCO",
+    "title": "LAS COSTEÑAS",
+    "icon": ""
+  },
+  {
+    "id": "POA",
+    "title": "MUNICIPAL POÁS",
+    "icon": ""
+  },
+  {
+    "id": "NAS",
+    "title": "NASSAU BSC",
+    "icon": ""
+  },
+  {
+    "id": "SAN",
+    "title": "SAN MARCELINO",
+    "icon": "https://iili.io/KpuXFCg.png"
+  },
+  {
+    "id": "SAN",
+    "title": "SAN SALVADOR BSC",
+    "icon": "https://iili.io/KpuXKGa.png"
+  },
+  {
+    "id": "SCR",
+    "title": "CRUZN",
+    "icon": ""
+  },
+  {
+    "id": "SPE",
+    "title": "SAO PEDRO",
+    "icon": ""
+  },
+  {
+    "id": "ZAR",
+    "title": "ZARCERO BS",
+    "icon": ""
   }
 ]
