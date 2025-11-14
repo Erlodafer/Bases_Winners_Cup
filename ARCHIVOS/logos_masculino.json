@@ -1,187 +1,224 @@
 [
   {
-    "id": "ARC",
+    "id": "ARCOS FC",
     "title": "ARCOS FC",
-    "icon": "https://iili.io/FZ96yiu.png"
+    "icon": "https://iili.io/FZ96yiu.png",
+    "tricode": "ARC"
   },
   {
-    "id": "BAH",
+    "id": "BAHIA FP",
     "title": "BAHIA FP",
-    "icon": "https://iili.io/KpuW57V.png"
+    "icon": "https://iili.io/KpuW57V.png",
+    "tricode": "BAH"
   },
   {
-    "id": "BAR",
+    "id": "BARRA DE SANTIAGO",
     "title": "BARRA DE SANTIAGO",
-    "icon": ""
+    "icon": "",
+    "tricode": "BAR"
   },
   {
-    "id": "SEB",
+    "id": "ISLA SAN SEBASTIAN",
     "title": "ISLA SAN SEBASTIAN",
-    "icon": "https://iili.io/KpuWYmP.png"
+    "icon": "https://iili.io/KpuWYmP.png",
+    "tricode": "SEB"
   },
   {
-    "id": "FUE",
+    "id": "FUEGO FC",
     "title": "FUEGO FC",
-    "icon": "https://iili.io/KpuWNIt.png"
+    "icon": "https://iili.io/KpuWNIt.png",
+    "tricode": "FUE"
   },
   {
-    "id": "MIL",
+    "id": "CD MILENIO",
     "title": "CD MILENIO",
-    "icon": "https://iili.io/KpuW0Lg.png"
+    "icon": "https://iili.io/KpuW0Lg.png",
+    "tricode": "MIL"
   },
   {
-    "id": "RIV",
+    "id": "FP RIVIERA MAYA",
     "title": "FP RIVIERA MAYA",
-    "icon": "https://iili.io/KpuWjpI.png"
+    "icon": "https://iili.io/KpuWjpI.png",
+    "tricode": "RIV"
   },
   {
-    "id": "GPB",
+    "id": "GARITA PALMERA BS",
     "title": "GARITA PALMERA BS",
-    "icon": "https://iili.io/KpuW6pS.png"
+    "icon": "https://iili.io/KpuW6pS.png",
+    "tricode": "GPB"
   },
   {
-    "id": "HON",
+    "id": "HONDURAS BSA",
     "title": "HONDURAS BSA",
-    "icon": "https://iili.io/KpuWvBs.png"
+    "icon": "https://iili.io/KpuWvBs.png",
+    "tricode": "HON"
   },
   {
-    "id": "LIM",
+    "id": "YUNIS LIMON",
     "title": "YUNIS LIMON",
-    "icon": "https://iili.io/KpuWBm7.png"
+    "icon": "https://iili.io/KpuWBm7.png",
+    "tricode": "LIM"
   },
   {
-    "id": "POA",
+    "id": "MUNICIPAL POÁS",
     "title": "MUNICIPAL POÁS",
-    "icon": "https://iili.io/KpuWm3x.png"
+    "icon": "https://iili.io/KpuWm3x.png",
+    "tricode": "POA"
   },
   {
-    "id": "NOP",
+    "id": "NOPALEROS FC",
     "title": "NOPALEROS FC",
-    "icon": "https://iili.io/KpuWyvV.png"
+    "icon": "https://iili.io/KpuWyvV.png",
+    "tricode": "NOP"
   },
   {
-    "id": "PIO",
+    "id": "PIONEROS FP",
     "title": "PIONEROS FP",
-    "icon": "https://iili.io/KpuQWFf.png"
+    "icon": "https://iili.io/KpuQWFf.png",
+    "tricode": "PIO"
   },
   {
-    "id": "RVI",
+    "id": "RANCHO VIEJO",
     "title": "RANCHO VIEJO",
-    "icon": "https://iili.io/KpuW4v2.png"
+    "icon": "https://iili.io/KpuW4v2.png",
+    "tricode": "RVI"
   },
   {
-    "id": "SAM",
+    "id": "SAMARA ADG",
     "title": "SAMARA ADG",
-    "icon": "https://iili.io/KpuXJTP.png"
+    "icon": "https://iili.io/KpuXJTP.png",
+    "tricode": "SAM"
   },
   {
-    "id": "SCR",
+    "id": "CRUZN",
     "title": "CRUZN",
-    "icon": "https://iili.io/KpuWX7p.png"
+    "icon": "https://iili.io/KpuWX7p.png",
+    "tricode": "SCR"
   },
   {
-    "id": "SCA",
+    "id": "CRUZN ACADEMY",
     "title": "CRUZN ACADEMY",
-    "icon": "https://iili.io/KpuWW2R.png"
+    "icon": "https://iili.io/KpuWW2R.png",
+    "tricode": "SCA"
   },
   {
-    "id": "SDC",
+    "id": "SOCAL BSC",
     "title": "SOCAL BSC",
-    "icon": "https://iili.io/KpuVQgR.png"
+    "icon": "https://iili.io/KpuVQgR.png",
+    "tricode": "SDC"
   },
   {
-    "id": "LUQ",
+    "id": "SPORTIVO LUQUEÑO",
     "title": "SPORTIVO LUQUEÑO",
-    "icon": "https://iili.io/KpuVL0v.png"
+    "icon": "https://iili.io/KpuVL0v.png",
+    "tricode": "LUQ"
   },
   {
-    "id": "USC",
+    "id": "USAC FP",
     "title": "USAC FP",
-    "icon": "https://iili.io/KpuW3g4.png"
+    "icon": "https://iili.io/KpuW3g4.png",
+    "tricode": "USC"
   },
   {
-    "id": "AMI",
+    "id": "AMIGAS FC",
     "title": "AMIGAS FC",
-    "icon": "https://iili.io/Ky4nIkP.png"
+    "icon": "https://iili.io/Ky4nIkP.png",
+    "tricode": "AMI"
   },
   {
-    "id": "BAR",
+    "id": "BARRA DE SANTIAGO",
     "title": "BARRA DE SANTIAGO",
-    "icon": "https://iili.io/KpuWYmP.png"
+    "icon": "https://iili.io/KpuWYmP.png",
+    "tricode": "BAR"
   },
   {
-    "id": "UES",
+    "id": "BS-UES",
     "title": "BS-UES",
-    "icon": "https://iili.io/KpuVD5N.png"
+    "icon": "https://iili.io/KpuVD5N.png",
+    "tricode": "UES"
   },
   {
-    "id": "VBE",
+    "id": "BSVB",
     "title": "BSVB",
-    "icon": "https://iili.io/KpuWcI1.png"
+    "icon": "https://iili.io/KpuWcI1.png",
+    "tricode": "VBE"
   },
   {
-    "id": "CALI",
+    "id": "CALI BSC",
     "title": "CALI BSC",
-    "icon": "https://iili.io/KpuWlhF.png"
+    "icon": "https://iili.io/KpuWlhF.png",
+    "tricode": "CALI"
   },
   {
-    "id": "VAS",
+    "id": "VASCO DA GAMA",
     "title": "VASCO DA GAMA",
-    "icon": "https://iili.io/KpuWKdl.png"
+    "icon": "https://iili.io/KpuWKdl.png",
+    "tricode": "VAS"
   },
   {
-    "id": "DIM",
+    "id": "DIMAS ESCAZÚ",
     "title": "DIMAS ESCAZÚ",
-    "icon": "https://iili.io/KpuWhkN.png"
+    "icon": "https://iili.io/KpuWhkN.png",
+    "tricode": "DIM"
   },
   {
-    "id": "RMA",
+    "id": "RIVIERA MAYA",
     "title": "RIVIERA MAYA",
-    "icon": "https://iili.io/KpuWOhX.png"
+    "icon": "https://iili.io/KpuWOhX.png",
+    "tricode": "RMA"
   },
   {
-    "id": "GAR",
+    "id": "GARITA PALMERA",
     "title": "GARITA PALMERA",
-    "icon": "https://iili.io/KpuWvBs.png"
+    "icon": "https://iili.io/KpuWvBs.png",
+    "tricode": "GAR"
   },
   {
-    "id": "CEL",
+    "id": "CEILÁNDIA EC",
     "title": "CEILÁNDIA EC",
-    "icon": "https://iili.io/KpuWurx.png"
+    "icon": "https://iili.io/KpuWurx.png",
+    "tricode": "CEL"
   },
   {
-    "id": "LCO",
+    "id": "LAS COSTEÑAS",
     "title": "LAS COSTEÑAS",
-    "icon": "https://iili.io/KpuWiT7.png"
+    "icon": "https://iili.io/KpuWiT7.png",
+    "tricode": "LCO"
   },
   {
-    "id": "POA",
+    "id": "MUNICIPAL POÁS",
     "title": "MUNICIPAL POÁS",
-    "icon": "https://iili.io/KpuWZCu.png"
+    "icon": "https://iili.io/KpuWZCu.png",
+    "tricode": "POA"
   },
   {
-    "id": "NAS",
+    "id": "NASSAU BSC",
     "title": "NASSAU BSC",
-    "icon": "https://iili.io/KpuWpYQ.png"
+    "icon": "https://iili.io/KpuWpYQ.png",
+    "tricode": "NAS"
   },
   {
-    "id": "SAN",
+    "id": "SAN MARCELINO",
     "title": "SAN MARCELINO",
-    "icon": "https://iili.io/KpuXFCg.png"
+    "icon": "https://iili.io/KpuXFCg.png",
+    "tricode": "SAN"
   },
   {
-    "id": "SNS",
+    "id": "SAN SALVADOR BSC",
     "title": "SAN SALVADOR BSC",
-    "icon": "https://iili.io/KpuXKGa.png"
+    "icon": "https://iili.io/KpuXKGa.png",
+    "tricode": "SAN"
   },
   {
-    "id": "SPE",
+    "id": "SAO PEDRO",
     "title": "SAO PEDRO",
-    "icon": "https://iili.io/KpuVtJp.png"
+    "icon": "https://iili.io/KpuVtJp.png",
+    "tricode": "SPE"
   },
   {
-    "id": "ZAR",
+    "id": "ZARCERO BS",
     "title": "ZARCERO BS",
-    "icon": "https://iili.io/KpuWnI9.png"
+    "icon": "https://iili.io/KpuWnI9.png",
+    "tricode": "ZAR"
   }
 ]
