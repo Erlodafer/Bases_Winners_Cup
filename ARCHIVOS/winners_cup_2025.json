@@ -45,7 +45,7 @@
         "range": "BAHÍA!A1:B105"
     },
     {
-        "id": "Barra Stgo. F",
+        "id": "BarraF",
         "title": "Barra de Santiago F",
         "tricode": "BAR",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL IN - TABLA INICIO.webm",
@@ -60,7 +60,7 @@
         "range": "BARRA F!A1:B35"
     },
     {
-        "id": "Barra Stgo. M",
+        "id": "BarraM",
         "title": "Barra de Santiago M",
         "tricode": "BAR",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL IN - TABLA INICIO.webm",
@@ -135,7 +135,7 @@
         "range": "CEILANDIA!A1:B35"
     },
     {
-        "id": "Cruzn F",
+        "id": "CruznF",
         "title": "CRUZN",
         "tricode": "SCR",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - LOCAL IN - TABLA INICIO.webm",
@@ -150,7 +150,7 @@
         "range": "CRUZN F!A1:B35"
     },
     {
-        "id": "Cruzn M",
+        "id": "CruznM",
         "title": "CRUZN",
         "tricode": "SCR",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - LOCAL IN - TABLA INICIO.webm",
@@ -165,7 +165,7 @@
         "range": "CRUZN M!A1:B35"
     },
     {
-         "id": "Cruzn A",
+         "id": "CruznA",
         "title": "CRUZN",
         "tricode": "SCR",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - LOCAL IN - TABLA INICIO.webm",
