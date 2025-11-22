@@ -11,38 +11,38 @@
         "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/AMIGAS FC - LOCAL OUT - BOMPER.webm",
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/AMIGAS FC - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/AMIGAS FC - VISITA OUT - BOMPER.webm",
-        "icon": "",
-        "range": ""
+        "icon": "https://iili.io/Ky4nIkP.png",
+        "range": "Amigas!A1:B26"
     },
     {
         "id": "Arcos",
         "title": "Arcos F.C.",
         "tricode": "ARC",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWT1j.png",
-        "range": ""
+        "range": "Arcos!A1:B30"
     },
     {
-        "id": "",
-        "title": "",
-        "tricode": "",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
-        "icon": "",
-        "range": ""
+        "id": "Bahia",
+        "title": "Bahia FP",
+        "tricode": "BAH",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA OUT - BOMPER.webmv",
+        "icon": "https://iili.io/KpuW57V.png",
+        "range": "Bahia!A1:B105"
     },
     {
         "id": "",
@@ -57,7 +57,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -72,7 +72,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -87,7 +87,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -102,7 +102,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -117,7 +117,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -132,7 +132,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -147,7 +147,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -162,7 +162,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -177,7 +177,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -192,7 +192,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -207,7 +207,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -222,7 +222,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -237,7 +237,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -252,7 +252,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -267,7 +267,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -282,7 +282,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -297,7 +297,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -312,7 +312,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -327,7 +327,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -342,7 +342,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -357,7 +357,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -372,7 +372,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -387,7 +387,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -402,7 +402,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -417,7 +417,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -432,7 +432,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -447,7 +447,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -462,7 +462,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -477,7 +477,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -492,7 +492,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -507,7 +507,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -522,7 +522,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -537,7 +537,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -552,7 +552,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -567,7 +567,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -582,7 +582,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -597,7 +597,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -612,7 +612,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -627,7 +627,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -642,7 +642,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -657,7 +657,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -672,7 +672,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -687,7 +687,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -702,7 +702,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -717,7 +717,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -732,7 +732,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -747,7 +747,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -762,7 +762,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -777,7 +777,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -792,7 +792,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -807,7 +807,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -822,7 +822,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -837,7 +837,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -852,7 +852,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -867,7 +867,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -882,7 +882,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -897,7 +897,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -912,7 +912,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -927,7 +927,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -942,7 +942,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -957,7 +957,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -972,7 +972,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -987,7 +987,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1002,7 +1002,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1017,7 +1017,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1032,7 +1032,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1047,7 +1047,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1062,7 +1062,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1077,7 +1077,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1092,7 +1092,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1107,7 +1107,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1122,7 +1122,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1137,7 +1137,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1152,7 +1152,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1167,7 +1167,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1182,7 +1182,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1197,7 +1197,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1212,7 +1212,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1227,7 +1227,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1242,7 +1242,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1257,7 +1257,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1272,7 +1272,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1287,7 +1287,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1302,7 +1302,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     },
     {
         "id": "",
@@ -1317,6 +1317,6 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/",
         "icon": "",
-        "range": ""
+        "range": "!A1:B30"
     }
 ]
