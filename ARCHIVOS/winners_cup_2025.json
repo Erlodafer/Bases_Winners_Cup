@@ -40,7 +40,7 @@
         "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL IN - BOMPER.webm",
         "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - LOCAL OUT - BOMPER.webm",
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA OUT - BOMPER.webmv",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuW57V.png",
         "range": "BAHÍA!A1:B105"
     },
@@ -58,6 +58,21 @@
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWYmP.png",
         "range": "BARRA F!A1:B35"
+    },
+    {
+        "id": "Barra Stgo. M",
+        "title": "Barra de Santiago M",
+        "tricode": "BAR",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA OUT - BOMPER.webm",
+        "icon": "https://iili.io/KpuWYmP.png",
+        "range": "BARRA M!A1:B35"
     },
     {
         "id": "UES",
