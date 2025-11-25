@@ -12,7 +12,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/AMIGAS FC - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/AMIGAS FC - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/Ky4nIkP.png",
-        "range": "AMIGAS!A1:B35"
+        "range": "AMIGAS!A1:B110"
     },
     {
         "id": "Arcos",
@@ -27,7 +27,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ARCOS FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWT1j.png",
-        "range": "ARCOS!A1:B35"
+        "range": "ARCOS!A1:B110"
     },
     {
         "id": "Bahia",
@@ -42,7 +42,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BAHIA FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuW57V.png",
-        "range": "BAHÍA!A1:B105"
+        "range": "BAHÍA!A1:B110"
     },
     {
         "id": "BarraF",
@@ -57,7 +57,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWYmP.png",
-        "range": "BARRA F!A1:B35"
+        "range": "BARRA F!A1:B110"
     },
     {
         "id": "BarraM",
@@ -72,7 +72,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BARRA SANTIAGO - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWYmP.png",
-        "range": "BARRA M!A1:B35"
+        "range": "BARRA M!A1:B110"
     },
     {
         "id": "BSVB",
@@ -87,7 +87,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BSVB - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/BSVB - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWcI1.png",
-        "range": "BSVB!A1:B35"
+        "range": "BSVB!A1:B110"
     },
     {
         "id": "Cali",
@@ -102,7 +102,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CALI BS - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CALI BS - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWlhF.png",
-        "range": "CALI!A1:B35"
+        "range": "CALI!A1:B110"
     },
     {
         "id": "Ceilandia",
@@ -117,7 +117,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CEILANDIA EC - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CEILANDIA EC - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWurx.png",
-        "range": "CEILANDIA!A1:B35"
+        "range": "CEILANDIA!A1:B110"
     },
     {
         "id": "CruznF",
@@ -132,7 +132,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWX7p.png",
-        "range": "CRUZN F!A1:B35"
+        "range": "CRUZN F!A1:B110"
     },
     {
         "id": "CruznM",
@@ -147,7 +147,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWX7p.png",
-        "range": "CRUZN M!A1:B35"
+        "range": "CRUZN M!A1:B110"
     },
     {
          "id": "CruznA",
@@ -162,7 +162,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWX7p.png",
-        "range": "CRUZN A!A1:B35"
+        "range": "CRUZN A!A1:B110"
     },
     {
         "id": "Dimas",
@@ -177,7 +177,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/DIMAS ESCAZU - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/DIMAS ESCAZU - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWhkN.png",
-        "range": "ESCAZU!A1:B35"
+        "range": "ESCAZU!A1:B110"
     },
     {
         "id": "Fuego",
@@ -192,7 +192,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FUEGO FC - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FUEGO FC - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWNIt.png",
-        "range": "FUEGO!A1:B35"
+        "range": "FUEGO!A1:B110"
     },
     {
         "id": "Garita F",
@@ -207,7 +207,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/GARITA PALMERAS - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/GARITA PALMERAS - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWvBs.png",
-        "range": "GARITA F!A1:B35"
+        "range": "GARITA F!A1:B110"
     },
     {
         "id": "Garita M",
@@ -222,7 +222,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/GARITA PALMERAS - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/GARITA PALMERAS - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWvBs.png",
-        "range": "GARITA M!A1:B35"
+        "range": "GARITA M!A1:B110"
     },
     {
         "id": "HBSA",
@@ -237,7 +237,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/HONDURAS BSA - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/HONDURAS BSA - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuW6pS.png",
-        "range": "HBSA!A1:B35"
+        "range": "HBSA!A1:B110"
     },
     {
         "id": "I. Rancho viejo",
@@ -252,306 +252,8 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA RANCHO VIEJO - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA RANCHO VIEJO - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuW4v2.png",
-        "range": "RANCHO!A1:B35"
+        "range": "RANCHO!A1:B110"
     },
     {
         "id": "I. SAN SEBASTIÁN",
-        "title": "ISLA SAN SEBASTIAN",
-        "tricode": "SEB",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ISLA SAN SEBASTIAN - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWrYl.png",
-        "range": "SEBASTIAN!A1:B35"
-    },
-    {
-        "id": "Costeñas",
-        "title": "Las Costeñas",
-        "tricode": "LCO",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/LAS COSTEÑAS - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWiT7.png",
-        "range": "COSTEÑAS!A1:B35"
-    },
-    {
-        "id": "Milenio",
-        "title": "CD Milenio",
-        "tricode": "MIL",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CD MILENIO - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuW0Lg.png",
-        "range": "MILENIO!A1:B35"
-    },
-    {
-        "id": "Poas",
-        "title": "Municipal Poás",
-        "tricode": "POA",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWm3x.png",
-        "range": "POAS!A1:B35"
-    },
-    {
-        "id": "Nassau",
-        "title": "Nassau BSC",
-        "tricode": "NAS",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NASSAU - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWpYQ.png",
-        "range": "NASSAU!A1:B35"
-    },
-    {
-        "id": "Nopaleros",
-        "title": "NOPALEROS FC",
-        "tricode": "NOP",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/NOPALEROS FC - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWyvV.png",
-        "range": "NOPALEROS!A1:B35"
-    },
-    {
-        "id": "Pioneros",
-        "title": "PIONEROS FP",
-        "tricode": "PIO",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/PIONEROS-FP - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuQWFf.png",
-        "range": "PIONEROS!A1:B35"
-    },
-    {
-        "id": "Riviera F",
-        "title": "FP Riviera Maya",
-        "tricode": "RIV",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWjpI.png",
-        "range": "RIVIERA F!A1:B35"
-    },
-    {
-        "id": "Riviera M",
-        "title": "FP Riviera Maya",
-        "tricode": "RIV",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWjpI.png",
-        "range": "RIVIERA M!A1:B35"
-    },
-    {
-        "id": "Samara",
-        "title": "SAMARA ADG",
-        "tricode": "SAM",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuXJTP.png",
-        "range": "SAMARA!A1:B35"
-    },
-    {
-        "id": "S Marcelino",
-        "title": "San Marcelino",
-        "tricode": "SAN",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN MARCELINO - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuXFCg.png",
-        "range": "MARCELINO!A1:B35"
-    },
-    {
-        "id": "SN Salvador",
-        "title": "SAN SALVADOR BSC",
-        "tricode": "SAN",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAN SALVADOR - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuXKGa.png",
-        "range": "SNSALV!A1:B35"
-    },
-    {
-        "id": "SPedro",
-        "title": "SAO PEDRO",
-        "tricode": "SPE",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAO PEDRO - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuVtJp.png",
-        "range": "PEDRO!A1:B35"
-    },
-    {
-        "id": "Socal",
-        "title": "SOCAL BSC",
-        "tricode": "SOC",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuVQgR.png",
-        "range": "SOCAL!A1:B35"
-    },
-    {
-        "id": "Luqueño",
-        "title": "Sportivo Luqueño",
-        "tricode": "LUQ",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SPORTIVO LUQUEÑO - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuVL0v.png",
-        "range": "LUQUENO!A1:B35"
-    },
-    {
-        "id": "UES",
-        "title": "BS-UES",
-        "tricode": "UES",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/UES - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuVD5N.png",
-        "range": "UES!A1:B35"
-    },
-    {
-        "id": "USAC",
-        "title": "USAC FP",
-        "tricode": "USC",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuW3g4.png",
-        "range": "USAC!A1:B35"
-    },
-    {
-        "id": "Vasco",
-        "title": "Vasco da Gama",
-        "tricode": "VAS",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/VASCO DA GAMA - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWKdl.png",
-        "range": "VASCO!A1:B35"
-    },
-    {
-        "id": "Yunis",
-        "title": "Yunis Limón",
-        "tricode": "LIM",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/YUNIS LIMON - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWBm7.png",
-        "range": "LIMON!A1:B35"
-    },
-    {
-        "id": "Zarcero",
-        "title": "Zarcero BS",
-        "tricode": "Zar",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/KpuWnI9.png",
-        "range": "ZARCERO!A1:B35"
-    }
-]
+        "title": "ISLA S
