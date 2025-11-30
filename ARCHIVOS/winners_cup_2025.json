@@ -314,7 +314,7 @@
         "range": "MILENIO!A1:B115"
     },
     {
-        "id": "Poas",
+        "id": "Poas F",
         "title": "Municipal Poás",
         "tricode": "POA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL IN - TABLA INICIO.webm",
@@ -326,7 +326,22 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWm3x.png",
-        "range": "POAS!A1:B115"
+        "range": "POASF!A1:B115"
+    },
+    {
+        "id": "Poas M",
+        "title": "Municipal Poás",
+        "tricode": "POA",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - BOMPER.webm",
+        "icon": "https://iili.io/KpuWm3x.png",
+        "range": "POASM!A1:B115"
     },
     {
         "id": "Nassau",
