@@ -1,9 +1,21 @@
 [
   {
+    "id": "AMIGAS FC",
+    "title": "AMIGAS FC",
+    "icon": "https://iili.io/Ky4nIkP.png",
+    "tricode": "AMI"
+  },
+  {
     "id": "ARCOS FC",
     "title": "ARCOS FC",
     "icon": "https://iili.io/KpuWT1j.png",
     "tricode": "ARC"
+  },
+  {
+    "id": "APULO ILOPANGO FP",
+    "title": "APULO ILOPANGO FP",
+    "icon": "https://iili.io/fonJTKv.png",
+    "tricode": "APL"
   },
   {
     "id": "BAHIA FP",
@@ -184,12 +196,6 @@
     "title": "LAS COSTEÑAS",
     "icon": "https://iili.io/KpuWiT7.png",
     "tricode": "LCO"
-  },
-  {
-    "id": "MUNICIPAL POÁS",
-    "title": "MUNICIPAL POÁS",
-    "icon": "https://iili.io/KpuWZCu.png",
-    "tricode": "POA"
   },
   {
     "id": "NASSAU BSC",
