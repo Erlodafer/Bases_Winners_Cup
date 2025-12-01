@@ -56,13 +56,13 @@
   {
     "id": "GARITA PALMERA BS",
     "title": "GARITA PALMERA BS",
-    "icon": "https://iili.io/KpuW6pS.png",
+    "icon": "https://iili.io/KpuWvBs.png",
     "tricode": "GPB"
   },
   {
     "id": "HONDURAS BSA",
     "title": "HONDURAS BSA",
-    "icon": "https://iili.io/KpuWvBs.png",
+    "icon": "https://iili.io/KpuW6pS.png",
     "tricode": "HON"
   },
   {
@@ -132,21 +132,9 @@
     "tricode": "USC"
   },
   {
-    "id": "AMIGAS FC",
-    "title": "AMIGAS FC",
-    "icon": "https://iili.io/Ky4nIkP.png",
-    "tricode": "AMI"
-  },
-  {
-    "id": "BARRA DE SANTIAGO",
-    "title": "BARRA DE SANTIAGO",
-    "icon": "https://iili.io/KpuWYmP.png",
-    "tricode": "BAR"
-  },
-  {
     "id": "BS-UES",
     "title": "BS-UES",
-    "icon": "https://iili.io/KpuVD5N.png",
+    "icon": "https://iilli.io/KpuVD5N.png",
     "tricode": "UES"
   },
   {
@@ -172,18 +160,6 @@
     "title": "DIMAS ESCAZÚ",
     "icon": "https://iili.io/KpuWhkN.png",
     "tricode": "DIM"
-  },
-  {
-    "id": "RIVIERA MAYA",
-    "title": "RIVIERA MAYA",
-    "icon": "https://iili.io/KpuWOhX.png",
-    "tricode": "RMA"
-  },
-  {
-    "id": "GARITA PALMERA",
-    "title": "GARITA PALMERA",
-    "icon": "https://iili.io/KpuWvBs.png",
-    "tricode": "GAR"
   },
   {
     "id": "CEILÁNDIA EC",
