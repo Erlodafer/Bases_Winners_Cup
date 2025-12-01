@@ -419,8 +419,8 @@
         "range": "RIVIERA M!A1:B115"
     },
     {
-        "id": "Samara",
-        "title": "SAMARA ADG",
+        "id": "",
+        "title": " ADG",
         "tricode": "SAM",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL OUT - TABLA INICIO.webm",
@@ -431,7 +431,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuXJTP.png",
-        "range": "SAMARA!A1:B115"
+        "range": "!A1:B115"
     },
     {
         "id": "S Marcelino",
