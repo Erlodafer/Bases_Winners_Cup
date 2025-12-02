@@ -431,7 +431,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuXJTP.png",
-        "range": "!A1:B115"
+        "range": "SAMARA!A1:B115"
     },
     {
         "id": "S Marcelino",
