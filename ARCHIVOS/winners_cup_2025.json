@@ -15,6 +15,20 @@
         "range": "AMIGAS!A1:B115"
     },
     {
+        "id": "Apulo",
+        "title": "Apulo Ilopango FP",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - BOMPER.webm",
+        "icon": "https://iili.io/fonJTKv.png",
+        "range": "APULO!A1:B115"
+    },
+    {
         "id": "Arcos",
         "title": "Arcos F.C.",
         "tricode": "ARC",
