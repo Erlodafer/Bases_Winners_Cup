@@ -377,7 +377,7 @@
     {
         "id": "Riviera F",
         "title": "FP Riviera Maya",
-        "tricode": "RIV",
+        "tricode": "RMA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
@@ -392,7 +392,7 @@
     {
         "id": "Riviera M",
         "title": "FP Riviera Maya",
-        "tricode": "RIV",
+        "tricode": "RMA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
@@ -467,7 +467,7 @@
     {
         "id": "Socal",
         "title": "SOCAL BSC",
-        "tricode": "SOC",
+        "tricode": "SCA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA IN - TABLA INICIO.webm",
@@ -512,7 +512,7 @@
     {
         "id": "USAC",
         "title": "USAC FP",
-        "tricode": "USC",
+        "tricode": "USA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA IN - TABLA INICIO.webm",
@@ -572,6 +572,7 @@
     {
         "id": "Apulo",
         "title": "Apulo Ilopango FP",
+        "tricode": "APU",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - TABLA INICIO.webm",
