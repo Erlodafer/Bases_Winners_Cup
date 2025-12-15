@@ -1,9 +1,21 @@
 [
   {
+    "id": "AMIGAS FC",
+    "title": "AMIGAS FC",
+    "icon": "https://iili.io/Ky4nIkP.png",
+    "tricode": "AMI"
+  },
+  {
     "id": "ARCOS FC",
     "title": "ARCOS FC",
     "icon": "https://iili.io/KpuWT1j.png",
     "tricode": "ARC"
+  },
+  {
+    "id": "APULO ILOPANGO FP",
+    "title": "APULO ILOPANGO FP",
+    "icon": "https://iili.io/fonJTKv.png",
+    "tricode": "APU"
   },
   {
     "id": "BAHIA FP",
@@ -39,18 +51,18 @@
     "id": "FP RIVIERA MAYA",
     "title": "FP RIVIERA MAYA",
     "icon": "https://iili.io/KpuWjpI.png",
-    "tricode": "RIV"
+    "tricode": "RMA"
   },
   {
     "id": "GARITA PALMERA BS",
     "title": "GARITA PALMERA BS",
-    "icon": "https://iili.io/KpuW6pS.png",
-    "tricode": "GPB"
+    "icon": "https://iili.io/KpuWvBs.png",
+    "tricode": "GAR"
   },
   {
     "id": "HONDURAS BSA",
     "title": "HONDURAS BSA",
-    "icon": "https://iili.io/KpuWvBs.png",
+    "icon": "https://iili.io/KpuW6pS.png",
     "tricode": "HON"
   },
   {
@@ -105,7 +117,7 @@
     "id": "SOCAL BSC",
     "title": "SOCAL BSC",
     "icon": "https://iili.io/KpuVQgR.png",
-    "tricode": "SDC"
+    "tricode": "SCA"
   },
   {
     "id": "SPORTIVO LUQUEÑO",
@@ -117,19 +129,7 @@
     "id": "USAC FP",
     "title": "USAC FP",
     "icon": "https://iili.io/KpuW3g4.png",
-    "tricode": "USC"
-  },
-  {
-    "id": "AMIGAS FC",
-    "title": "AMIGAS FC",
-    "icon": "https://iili.io/Ky4nIkP.png",
-    "tricode": "AMI"
-  },
-  {
-    "id": "BARRA DE SANTIAGO",
-    "title": "BARRA DE SANTIAGO",
-    "icon": "https://iili.io/KpuWYmP.png",
-    "tricode": "BAR"
+    "tricode": "USA"
   },
   {
     "id": "BS-UES",
@@ -162,34 +162,16 @@
     "tricode": "DIM"
   },
   {
-    "id": "RIVIERA MAYA",
-    "title": "RIVIERA MAYA",
-    "icon": "https://iili.io/KpuWOhX.png",
-    "tricode": "RMA"
-  },
-  {
-    "id": "GARITA PALMERA",
-    "title": "GARITA PALMERA",
-    "icon": "https://iili.io/KpuWvBs.png",
-    "tricode": "GAR"
-  },
-  {
     "id": "CEILÁNDIA EC",
     "title": "CEILÁNDIA EC",
     "icon": "https://iili.io/KpuWurx.png",
-    "tricode": "CEL"
+    "tricode": "CEI"
   },
   {
     "id": "LAS COSTEÑAS",
     "title": "LAS COSTEÑAS",
     "icon": "https://iili.io/KpuWiT7.png",
     "tricode": "LCO"
-  },
-  {
-    "id": "MUNICIPAL POÁS",
-    "title": "MUNICIPAL POÁS",
-    "icon": "https://iili.io/KpuWZCu.png",
-    "tricode": "POA"
   },
   {
     "id": "NASSAU BSC",

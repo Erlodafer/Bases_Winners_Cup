@@ -15,20 +15,6 @@
         "range": "AMIGAS!A1:B115"
     },
     {
-        "id": "Apulo",
-        "title": "CD Apulo Ilopango FP",
-        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - TABLA INICIO.webm",
-        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - TABLA INICIO.webm",
-        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - TABLA INICIO.webm",
-        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - TABLA INICIO.webm",
-        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - BOMPER.webm",
-        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - BOMPER.webm",
-        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - BOMPER.webm",
-        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - BOMPER.webm",
-        "icon": "https://iili.io/fonJTKv.png",
-        "range": "APULO!A1:B115"
-    },
-    {
         "id": "Arcos",
         "title": "Arcos F.C.",
         "tricode": "ARC",
@@ -166,7 +152,7 @@
     {
          "id": "CruznA",
         "title": "CRUZN",
-        "tricode": "SCR",
+        "tricode": "SCA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/CRUZN - VISITA IN - TABLA INICIO.webm",
@@ -326,7 +312,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWm3x.png",
-        "range": "POASF!A1:B115"
+        "range": "POAS F!A1:B115"
     },
     {
         "id": "Poas M",
@@ -341,7 +327,7 @@
         "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/MUNICIPAL POAS W - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWm3x.png",
-        "range": "POASM!A1:B115"
+        "range": "POAS M!A1:B115"
     },
     {
         "id": "Nassau",
@@ -391,7 +377,7 @@
     {
         "id": "Riviera F",
         "title": "FP Riviera Maya",
-        "tricode": "RIV",
+        "tricode": "RMA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
@@ -406,7 +392,7 @@
     {
         "id": "Riviera M",
         "title": "FP Riviera Maya",
-        "tricode": "RIV",
+        "tricode": "RMA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/FP RIVERA MAYA - VISITA IN - TABLA INICIO.webm",
@@ -420,7 +406,7 @@
     },
     {
         "id": "Samara",
-        "title": "SAMARA ADG",
+        "title": "Samara ADG",
         "tricode": "SAM",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SAMMARA ADG FP - LOCAL OUT - TABLA INICIO.webm",
@@ -481,7 +467,7 @@
     {
         "id": "Socal",
         "title": "SOCAL BSC",
-        "tricode": "SOC",
+        "tricode": "SCA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/SOCAL - VISITA IN - TABLA INICIO.webm",
@@ -526,7 +512,7 @@
     {
         "id": "USAC",
         "title": "USAC FP",
-        "tricode": "USC",
+        "tricode": "USA",
         "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL IN - TABLA INICIO.webm",
         "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - LOCAL OUT - TABLA INICIO.webm",
         "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/USAC FP - VISITA IN - TABLA INICIO.webm",
@@ -582,5 +568,20 @@
         "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/ZARCERO FC - VISITA OUT - BOMPER.webm",
         "icon": "https://iili.io/KpuWnI9.png",
         "range": "ZARCERO!A1:B115"
+    },
+    {
+        "id": "Apulo",
+        "title": "Apulo Ilopango FP",
+        "tricode": "APU",
+        "logolocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - TABLA INICIO.webm",
+        "logolocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - TABLA INICIO.webm",
+        "logovisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - TABLA INICIO.webm",
+        "logovisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - TABLA INICIO.webm",
+        "bomperlocin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL IN - BOMPER.webm",
+        "bomperlocout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - LOCAL OUT - BOMPER.webm",
+        "bompervisin": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA IN - BOMPER.webm",
+        "bompervisout": "https://erlodafer.github.io/Bases_Winners_Cup/LOGOS BOMPER/APULO ILOPANGO - VISITA OUT - BOMPER.webm",
+        "icon": "https://iili.io/fonJTKv.png",
+        "range": "APULO!A1:B115"
     }
 ]
